@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navBar {
+    background-color: #1e1e1e !important;
+    color: #ffffff !important;
+}
+
+.navBar a {
+    color: #ffffff !important;
+}
+
+.navBar a:hover, a:focus {
+    color: #bb0022 !important;
+}
+
+.navBar button {
+    color: #bb0022 !important;
+    border-color: #bb0022 !important;
+}
+
+.navBar button:hover, button:focus {
+    color: #ffffff !important;
+    background-color: #bb0022 !important;
+}
+
+.navBar button span {
+    color: #ffffff !important;
+}
+
+.videoListItem:hover, .videoListItem:focus {
+    background-color: #f5f5f5;
+    cursor: pointer;
+}
+
+.videoListItem-Image {
+    position: relative;
+    width: 100%;
+}
+
+.videoListItem-Image img {
+    width: inherit;
+}
+
+.videoListItem-Text {
+    font-weight: 700;
+}

@@ -1,0 +1,27 @@
+{
+  "name": "la1tv-frontend-testing",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "9.4.4",
+    "react": "16.13.1",
+    "react-bootstrap": "^1.0.1",
+    "react-dom": "16.13.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.21.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.20.0",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
